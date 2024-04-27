@@ -1,0 +1,19 @@
+1. How many classes are there overall?
+- There are 9,331 unique classes
+
+2. How many classes after de-duplication?
+- There are 3,395 unique classes
+- 6,395
+
+3. Which department offers the most (different) classes?
+
+(Table in department.csv) - BASQ or Basque department offers the most classes with 608, folllowed by Econ with 470
+
+4. Is there an apparent difference in the number of classes offered between Autumn, Winter, and Spring?
+
+From the data
+Spring - 2459
+Autumn- 2456
+Winter - 2161
+
+So no there is not much difference between fall and spring but there is a bit less in winter
